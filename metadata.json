@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Kápsula — Portfolio de Marca Personal",
+  "description": "Portfolio y sistema de marca personal de Kápsula, estudio de diseño, publicidad y fotografía liderado por Pedro Parisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
